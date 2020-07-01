@@ -5521,7 +5521,7 @@ a.close.disabled {
   height: 100%;
   overflow: hidden;
   outline: 0;
-  opacity: 0.93;
+  
 }
 
 .modal-dialog {
@@ -5613,7 +5613,7 @@ a.close.disabled {
   opacity: 0;
 }
 .modal-backdrop.show {
-  opacity: 0.5;
+  opacity: 0.9;
 }
 
 .modal-header {
