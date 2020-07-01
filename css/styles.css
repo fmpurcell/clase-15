@@ -5521,6 +5521,7 @@ a.close.disabled {
   height: 100%;
   overflow: hidden;
   outline: 0;
+  opacity: 0.93;
 }
 
 .modal-dialog {
